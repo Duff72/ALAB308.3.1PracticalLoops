@@ -29,19 +29,7 @@ for (let i = 0; i <= 100; i++) {
 //     // Create a loop that searches for the next prime number, starting at n and incrementing from there.
 //     // As soon as you find the prime number, log that number and exit the loop.
 
-
-// let n=50;
-
-// if (n<2) {
-//     console.log(2)
-// }
-// else if (n<3) {
-//     console.log(3)
-// }
-// else {
-//     //idefk
-        //labeled statement maybe
-// }
+                //I tried so many things, I can't figure this out
 
     //Part Three
     //mdn string methods
